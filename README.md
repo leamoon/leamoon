@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi here 👋
 
-This is leamoon.
+Welcome to my Github page! This is leamoon!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leamoon&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/leamoon)
+[![Mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xwubx@connect.ust.hk)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leamoon&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leamoon&repo=SpiderSys)](https://github.com/leamoon/SpiderSys)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leamoon&repo=GPA_calculator)](https://github.com/leamoon/GPA_calculator)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leamoon)](https://github.com/Anurag/github-readme-stats)
 
 
