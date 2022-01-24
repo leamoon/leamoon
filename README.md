@@ -1,6 +1,6 @@
 ### Hi here 👋
 
-Welcome to my Github page! This is leamoon!
+Welcome to my Github page! This is Lemoon!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/leamoon)
 [![Mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xwubx@connect.ust.hk)
