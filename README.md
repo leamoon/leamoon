@@ -8,7 +8,7 @@ Welcome to my Github page! This is Lemoon!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leamoon&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leamoon&repo=StochasticNet&theme=radical)](https://github.com/leamoon/StochasticNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leamoon&repo=SpiderSys&theme=radical)](https://github.com/leamoon/SpiderSys)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leamoon&repo=Physical-Reservoir-Computing-for-Spin-Torque-Oscillator&theme=radical)](https://github.com/leamoon/Physical-Reservoir-Computing-for-Spin-Torque-Oscillator)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leamoon&theme=dracula)](https://github.com/Anurag/github-readme-stats)
 
 
